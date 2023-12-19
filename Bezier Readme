@@ -1,4 +1,4 @@
-* Bezier Curve Implementation
+# Bezier Curve Implementation
 ## Overview
 This C++ code provides an implementation of a cubic Bezier curve, which is a mathematical curve defined by four control points. The Bezier curve is commonly used in computer graphics and animation to create smooth and visually appealing paths.
 
